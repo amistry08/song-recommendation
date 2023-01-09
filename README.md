@@ -8,3 +8,6 @@ For this project, We're using the Million Playlist Dataset, which, as its name i
 contains a number of songs, and some metadata is included as well, such as the name of the playlist, duration, number of songs, number of artists, etc.
 
 Check out the dataset [here](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
+
+Reference:
+https://github.com/abdelrhmanelruby/Spotify-Recommendation-System
