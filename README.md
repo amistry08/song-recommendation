@@ -30,10 +30,10 @@ This repo aims to:
 ## 📦 Data
 
 - The dataset used: **Million Playlist Dataset (MPD)**  
-- Contains ~1 million playlists, with metadata (playlist name, number of songs, artists, duration etc.) :contentReference[oaicite:0]{index=0}  
-- Source / more info: [AIcrowd – Million Playlist Dataset](https://www.aicrowd.com) :contentReference[oaicite:1]{index=1}  
-- Inspired by projects such as [abdelrhmanelruby’s Spotify Recommendation System] :contentReference[oaicite:2]{index=2}
-
+- Contains ~1 million playlists, with metadata (playlist name, number of songs, artists, duration etc.)
+- Source / more info: [AIcrowd – Million Playlist Dataset](https://www.aicrowd.com)
+- Inspired by projects such as [abdelrhmanelruby’s Spotify Recommendation System]
+  
 ---
 
 ## 🔧 Approach & Methods
